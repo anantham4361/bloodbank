@@ -57,7 +57,7 @@ nvm use 16
 sudo apt install git -y
 
 # Install MySQL client
-sudo apt install mysql -y
+sudo apt install mysql-client -y
 ```
 
 ## Step 4: Clone and Set Up the Project
